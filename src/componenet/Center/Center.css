@@ -1,0 +1,24 @@
+/* Center.css */
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 37vh; /* Adjust the height as needed */
+  }
+  
+  .section-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .section-wrapper img {
+    width: 100%; /* Make the images take up 100% of the parent container */
+    max-width: 450px; /* Set a maximum width for the images */
+    margin: 10px; /* Add some margin between the images */
+    border-radius: 8px; /* Optional: Add border-radius for rounded corners */
+  }
+  
+  /* Add any additional styles as needed */
+  
